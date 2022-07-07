@@ -1,0 +1,5 @@
+baseURL = 'https://github.com/AlirzgHS/my-blog-hugo.git'
+relativeURLs = "True"
+languageCode = 'ar'
+title = 'مدونتي'
+paginate = 9
